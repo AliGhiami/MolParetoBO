@@ -1,0 +1,9 @@
+rdkit>=2023.9.1
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.7
+ipywidgets>=8.0
+ipython>=8.0
+pymoo>=0.6
+python-pptx>=0.6.21

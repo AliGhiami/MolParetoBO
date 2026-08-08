@@ -1,0 +1,6 @@
+iter,n_labelled,front_size,hv_qed_negSA,batch_mutations,batch_mean_acq
+1,13,9,1.823514998007703,gen2|methyl_remove@0; gen2|methyl_remove@5; gen2|ring_Cl@10; gen2|methyl_remove@12,0.6912932497814795
+2,17,10,1.82983480883963,gen2|methyl_add@1; gen2|ring_Cl@7; ring_Cl@5; gen2|ring_Cl@7,0.5953477463967368
+3,21,12,1.844348872446415,gen2|methyl_add@11; gen2|methyl_add@4; gen2|methyl_add@1; gen2|ring_Cl@2,0.6615075344263583
+4,25,12,1.844348872446415,gen2|methyl_add@0; gen2|methyl_add@12; gen2|methyl_add@9; gen2|methyl_add@9,0.6875782394412773
+5,29,13,1.844348872446415,gen2|methyl_remove@0; gen2|methyl_remove@3; methyl_remove@0; gen2|ring_OH@10,0.6586709076636712

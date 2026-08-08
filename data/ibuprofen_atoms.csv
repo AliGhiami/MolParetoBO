@@ -1,0 +1,16 @@
+idx,symbol,degree,neighbors,is_aromatic,total_Hs
+0,C,1,"(1,)",False,3
+1,C,3,"(0, 2, 3)",False,1
+2,C,1,"(1,)",False,3
+3,C,2,"(1, 4)",False,2
+4,C,3,"(3, 5, 9)",True,0
+5,C,2,"(4, 6)",True,1
+6,C,2,"(5, 7)",True,1
+7,C,3,"(6, 8, 10)",True,0
+8,C,2,"(7, 9)",True,1
+9,C,2,"(8, 4)",True,1
+10,C,3,"(7, 11, 12)",False,1
+11,C,1,"(10,)",False,3
+12,C,3,"(10, 13, 14)",False,0
+13,O,1,"(12,)",False,0
+14,O,1,"(12,)",False,1
